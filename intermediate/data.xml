@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<favorites>
+    <song id="1">
+        <title>Far Cry</title>
+        <artist>Rush</artist>
+        <country>Canada</country>
+        <genre>Progressive Rock</genre>
+        <info>"https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Moving_Pictures.jpg/220px-Moving_Pictures.jpg"</info>
+    </song>
+    <song id="2">
+        <title>Kashmir</title>
+        <artist>Led Zeppelin</artist>
+        <country>England</country>
+        <genre>Blues Rock, Folk Rock</genre>
+        <info>"https://i.discogs.com/0BLP_rut54J2D_Vxql1hJ11FvqV9HT9RrS3QxLRunnI/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjQx/OTMtMTM4MzUxNDIw/MC05NjYzLmpwZWc.jpeg"</info>
+    </song>
+    <song id="3">
+        <title>Learning to Fly</title>
+        <artist>Pink Floyd</artist>
+        <country>England</country>
+        <genre>Progressive Rock</genre>
+        <info>"https://i.scdn.co/image/ab67616d0000b27361f734a2370207feda78d018"</info>
+    </song>
+    <song id="4">
+        <title>Pictures of Home</title>
+        <artist>Deep Purple</artist>
+        <country>England</country>
+        <genre>Hard Rock</genre>
+        <info>"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMPmQsC6rpOsNXGM6b4vN63x9_t9jz8NHYA"</info>
+    </song>
+    <song id="5">
+        <title>Black Ice</title>
+        <artist>AC/DC</artist>
+        <country>Australia</country>
+        <genre>Hard Rock</genre>
+        <info>"https://cdn.pastemagazine.com/www/articles/2008/12/09/ac_dc_black_ice_web.jpg"</info>
+    </song>
+    <song id="6">
+        <title>Lokomotive Breath</title>
+        <artist>Jethro Tull</artist>
+        <country>England</country>
+        <genre>Jazz Rock</genre>
+        <info>"https://api.ardmediathek.de/image-service/images/urn:ard:image:a9051068d02503ea?w=1280"</info>
+    </song>
+    <song id="7">
+        <title>Walk This Way</title>
+        <artist>Aerosmtith</artist>
+        <country>USA</country>
+        <genre>Hard Rock</genre>
+        <info>"https://cdn2.albumoftheyear.org/375x/album/240936-walk-this-way.jpg"</info>
+    </song>
+    <song id="8">
+        <title>Knockin' on Heaven' Door</title>
+        <artist>Guns N'Roses</artist>
+        <country>USA</country>
+        <genre>Hard Rock</genre>
+        <info>"https://townsquare.media/site/295/files/2021/09/attachment-KnockinonHeavensdoor.jpg?w=980"</info>
+    </song>
+    <song id="9">
+        <title>Closer to the Heart</title>
+        <artist>Rush</artist>
+        <country>Canada</country>
+        <genre>Progressive</genre>
+        <info>"https://upload.wikimedia.org/wikipedia/en/a/a6/Closer_to_the_Heart.jpg"</info>
+    </song>
+    <song id="10">
+        <title>Stormbringer</title>
+        <artist>Deep Purple</artist>
+        <country>England</country>
+        <genre>Hard Rock</genre>
+        <info>"https://www.hifitest.de/images/testbilder/big/schallplatte_emi_deep_purple_stormbringer_bild_1280141512.jpg"</info>
+    </song>
+    <song id="11">
+        <title>Long Cond Winter</title>
+        <artist>Cinderella</artist>
+        <country>USA</country>
+        <genre>Hard Rock</genre>
+        <info>"https://k8g7u9q7.stackpathcdn.com/wp-content/uploads/2017/08/cinderella-long-cold-nights2.jpg"</info>
+    </song>
+    <song id="12">
+        <title>Aqualang</title>
+        <artist>Jethro Tull</artist>
+        <country>England</country>
+        <genre>Progressive Rock</genre>
+        <info>"https://cdn.mos.cms.futurecdn.net/4ZCQ7goiumPeyj34UMUUFF-480-80.jpg"</info>
+    </song>
+    <song id="13">
+        <title>Song and Emotion</title>
+        <artist>Tesla</artist>
+        <country>USA</country>
+        <genre>Hard Rock</genre>
+        <info>"https://i.ebayimg.com/images/g/Qg0AAOSwT2pbTMcl/s-l400.jpg"</info>
+    </song>
+    <song id="14">
+        <title>Loner</title>
+        <artist>Black Sabbath</artist>
+        <country>England</country>
+        <genre>Heavy Metal</genre>
+        <info>"https://i.discogs.com/RQcdvwUExiRCKSdgBGvTq7b4YaEogC1UPoPcWG0M1Vg/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTIw/MDk3LTE2MTM5MTc5/NDEtNjY4OC5qcGVn.jpeg"</info>
+    </song>
+    <song id="15">
+        <title>Hold On</title>
+        <artist>Yes</artist>
+        <country>England</country>
+        <genre>Progressive Rock</genre>
+        <info>"https://i.ytimg.com/vi/QWjahwl2QDE/maxresdefault.jpg"</info>
+    </song>
+    <song id="16">
+        <title>Stealin'</title>
+        <artist>Uriah Heep</artist>
+        <country>England</country>
+        <genre>Hard Rock</genre>
+        <info>"https://e.snmc.io/i/1200/s/066c9c8622376ac172fad665fa081c2d/3151153"</info>
+    </song>
+    <song id="17">
+        <title>Sole Survivor</title>
+        <artist>Asia</artist>
+        <country>England</country>
+        <genre>Progressive Rock</genre>
+        <info>"https://images.eil.com/large_image/ASIA_SOLE%2BSURVIVOR-171485.jpg"</info>
+    </song>
+    <song id="18">
+        <title>Red Sector A</title>
+        <artist>Rush</artist>
+        <country>Canada</country>
+        <genre>Progressive Rock</genre>
+        <info>"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfZ-xgi8S1xPQNq83aExRV1jftwcY7R5llIQ"</info>
+    </song>
+    <song id="19">
+        <title>Top of the World</title>
+        <artist>Deep Purple</artist>
+        <country>England</country>
+        <genre>Blues Rock</genre>
+        <info>"https://i.ytimg.com/vi/arSlzAyprOM/maxresdefault.jpg"</info>
+    </song>
+    <song id="20">
+        <title>Heaven's Hung in Black</title>
+        <artist>WASP</artist>
+        <country>USA</country>
+        <genre>Blues</genre>
+        <info>"https://i.ytimg.com/vi/7RfZOum4ZO0/maxresdefault.jpg"</info>
+    </song>
+</favorites>
